@@ -3,6 +3,9 @@
 A comprehensive warehouse management solution with intelligent SKU mapping, data processing, and AI-powered analytics.
 
 ![WMS Pro](https://via.placeholder.com/800x400?text=WMS+Pro+Dashboard)
+![Dashboard](wsm1.JPG)
+![Dashboard](wsm2.JPG)
+![Dashboard](wsm3.JPG)
 
 ## Overview
 
