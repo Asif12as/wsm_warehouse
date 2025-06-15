@@ -9,10 +9,16 @@ This project consists of two main components:
 1. **Desktop GUI Application**: A Python application with a graphical user interface for SKU to MSKU mapping and sales data processing.
 
  ![GUI_1](https://github.com/Asif12as/wsm_warehouse/blob/master/mapping_data.JPG)
+ ![GUI_2](https://github.com/Asif12as/wsm_warehouse/blob/master/resultt_sku_msku.JPG)
+
 
    
 3. **Web Application**: A full-stack web application with a React frontend and Flask backend that provides similar functionality through a web interface.
 
+![Dashboard](https://github.com/Asif12as/wsm_warehouse/blob/master/wsm1.JPG)
+![Processed](https://github.com/Asif12as/wsm_warehouse/blob/master/wsm3.JPG)
+
+ 
 ## Key Concepts
 
 - **SKU (Stock Keeping Unit)**: A unique identifier for products that may vary across different marketplaces (e.g., "Golden Apple" and "GLD" for the same product).
