@@ -7,7 +7,11 @@ A comprehensive warehouse management system with both a desktop GUI application 
 This project consists of two main components:
 
 1. **Desktop GUI Application**: A Python application with a graphical user interface for SKU to MSKU mapping and sales data processing.
-2. **Web Application**: A full-stack web application with a React frontend and Flask backend that provides similar functionality through a web interface.
+
+ ![GUI_1](https://github.com/Asif12as/wsm_warehouse/blob/master/mapping_data.JPG)
+
+   
+3. **Web Application**: A full-stack web application with a React frontend and Flask backend that provides similar functionality through a web interface.
 
 ## Key Concepts
 
