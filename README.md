@@ -1,4 +1,4 @@
-# Warehouse Management System
+ # Warehouse Management System
 
 A comprehensive warehouse management system with both a desktop GUI application and a web application for mapping Stock Keeping Units (SKUs) to Master SKUs (MSKUs) and processing sales data.
 
